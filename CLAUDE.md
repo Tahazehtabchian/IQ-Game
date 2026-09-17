@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Two sibling folders, each a single self-contained `index.html`:
 
-- `taha zehtabchian/` — the live project. Git repo, remote `Tahazehtabchian/Taha-zehtabchian`, published via GitHub Pages at https://tahazehtabchian.github.io/Taha-zehtabchian/
+- `taha zehtabchian/` — the live project. Git repo, remote `Tahazehtabchian/IQ-Game`, published via GitHub Pages at https://tahazehtabchian.github.io/IQ-Game/
 - `iq-game/` — an untracked copy of the same file (byte-identical at last check). Not a separate project; if you change one and the copy is meant to stay in sync, copy the file over rather than editing twice.
 
 ## Commands

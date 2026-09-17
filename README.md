@@ -3,7 +3,7 @@ AI consultant &amp; website designer for entrepreneurs and small businesses — 
 
 ## IQ game
 
-**Play:** https://tahazehtabchian.github.io/Taha-zehtabchian/ (also mirrored at `/iq-game/`)
+**Play:** https://tahazehtabchian.github.io/IQ-Game/ (also mirrored at `/iq-game/`)
 
 ### English
 
